@@ -1,0 +1,18 @@
+.test {
+  background-color: black; }
+  .test:hover {
+    background-color: blueviolet; }
+
+.brdnick {
+  color: red; }
+
+input {
+  padding: 16px;
+  width: 279px;
+  font-size: 14px;
+  line-height: 32px;
+  font-weight: 300;
+  letter-spacing: 0.025em;
+  color: #a4a4a4;
+  border: 1px solid #e6e6e6;
+  outline: none; }
