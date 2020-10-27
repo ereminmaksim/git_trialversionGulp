@@ -2,6 +2,7 @@ let gulp = require('gulp');
 let sass = require('gulp-sass');
 let csso = require('gulp-csso');
 let cleanCSS = require('gulp-clean-css');
+let cleanCSS = require('gulp-clean-scss');
 
 
  gulp.task('scss', function(){
